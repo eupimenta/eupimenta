@@ -1,4 +1,4 @@
-### Hi, I'm Ewerson Pimenta 👋
+### Hi, I'm Pimenta. 👋
 
 <div>
   <a href="https://github.com/eupimenta">
