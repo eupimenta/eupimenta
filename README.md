@@ -38,13 +38,9 @@ I bridge the gap between theoretical statistical modeling, distributed data engi
       <br><b>🤖 AI, MLOps & Prompt Engineering</b><br><br>
       <img align="center" alt="Tensorflow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
-      <img src="https://img.shields.io/badge/DeepSeek_API-0055FF?style=for-the-badge&logo=deepseek&logoColor=white">
       <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
       <br><br>
       <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-      <img src="https://img.shields.io/badge/Veo_3_%7C_Imagen-4285F4?style=for-the-badge&logo=google&logoColor=white">
-      <img src="https://img.shields.io/badge/DALL--E-000000?style=for-the-badge&logo=openai&logoColor=white">
-      <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white">
     </td>
     <td width="50%" valign="top">
       <br><b>💻 Front-End & Software Engineering</b><br><br>
