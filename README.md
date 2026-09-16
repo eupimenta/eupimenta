@@ -23,20 +23,20 @@ I bridge the gap between theoretical statistical modeling, distributed data engi
       <img align="center" alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
     </td>
     <td width="50%" valign="top">
-      <b>🧮 Languages, Statistics & Data Science</b><br><br>
+      <b>🧮 Languages, Statistics, Data Science & MLOps</b><br><br>
       <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
       <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
       <img align="center" alt="RStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg">
       <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
       <img align="center" alt="SPSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg">
-      <img align="center" alt="SAS" height="40" src="https://img.shields.io/badge/SAS-0092DF?style=for-the-badge&logo=sas&logoColor=white">
+      <!-- <img align="center" alt="SAS" height="40" src="https://img.shields.io/badge/SAS-0092DF?style=for-the-badge&logo=sas&logoColor=white"> -->
       <img align="center" alt="Google Colab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
+      <img align="center" alt="Tensorflow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <br><b>🤖 AI, MLOps & Prompt Engineering</b><br><br>
-      <img align="center" alt="Tensorflow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
+      <br><b>🤖 AI & Prompt Engineering</b><br><br>
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
       <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
       <br><br>
