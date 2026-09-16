@@ -6,7 +6,7 @@
 
 I bridge the gap between theoretical statistical modeling, distributed data engineering, enterprise MLOps architectures, and end-to-end application development. From building robust pipelines to deploying AI-driven interactive web apps, I build solutions that drive real business impact.
 
-<br>
+<!-- <br> -->
 
 ### 🛠️ Tech Stack & Arsenal
 
