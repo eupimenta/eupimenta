@@ -1,6 +1,6 @@
 ### Hi, I'm Pimenta. 👋
 
-**Principal Data Engineer | Statistician | Full-Stack Data Developer**
+**Data Engineer | Statistician | Full-Stack Data Developer**
 
 <img align="right" alt="Pimenta-yoda" height="130" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
