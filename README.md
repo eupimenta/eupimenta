@@ -14,47 +14,48 @@ I bridge the gap between theoretical statistical modeling, distributed data engi
   <tr>
     <td width="50%" valign="top">
       <b>☁️ Data Engineering & Cloud Architecture</b><br><br>
-      <img align="center" alt="Databricks" height="35" width="35" src="https://cdn.simpleicons.org/databricks/FF3621">
-      <img align="center" alt="Apache Spark" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg">
-      <img align="center" alt="Google Cloud" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
-      <img align="center" alt="Azure" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
-      <img align="center" alt="AWS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-      <img align="center" alt="Docker" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-      <img align="center" alt="Bash" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
+      <img align="center" alt="Databricks" height="40" width="40" src="https://cdn.simpleicons.org/databricks/FF3621">
+      <img align="center" alt="Apache Spark" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg">
+      <img align="center" alt="Google Cloud" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
+      <img align="center" alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
+      <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+      <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+      <img align="center" alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
     </td>
     <td width="50%" valign="top">
       <b>🧮 Languages, Statistics & Data Science</b><br><br>
-      <img align="center" alt="Python" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-      <img align="center" alt="R" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
-      <img align="center" alt="RStudio" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg">
-      <img align="center" alt="SQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-      <img align="center" alt="SPSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg">
-      <img align="center" alt="SAS" height="35" src="https://img.shields.io/badge/SAS-0092DF?style=for-the-badge&logo=sas&logoColor=white">
-      <img align="center" alt="Google Colab" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
+      <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+      <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
+      <img align="center" alt="RStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg">
+      <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+      <img align="center" alt="SPSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg">
+      <img align="center" alt="SAS" height="40" src="https://img.shields.io/badge/SAS-0092DF?style=for-the-badge&logo=sas&logoColor=white">
+      <img align="center" alt="Google Colab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <br><b>🤖 AI, MLOps & Prompt Engineering</b><br><br>
-      <img align="center" alt="Tensorflow" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
+      <img align="center" alt="Tensorflow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
       <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
+      <br><br>
       <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
     </td>
     <td width="50%" valign="top">
       <br><b>💻 Front-End & Software Engineering</b><br><br>
-      <img align="center" alt="HTML5" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-      <img align="center" alt="CSS3" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-      <img align="center" alt="JavaScript" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-      <img align="center" alt="TypeScript" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-      <img align="center" alt="React" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-      <img align="center" alt="C#" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+      <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+      <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+      <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+      <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+      <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+      <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
       <br><b>📊 BI, Analytics Apps & Visualizations</b><br><br>
-      <img align="center" alt="D3.js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg">
+      <img align="center" alt="D3.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg">
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
       <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white">
