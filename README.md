@@ -12,7 +12,7 @@ I bridge the gap between theoretical statistical modeling, distributed data engi
 
 #### ☁️ Data Engineering & Cloud Architecture
 <div style="display: inline_block">
-  <img align="center" alt="Databricks" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg">
+  <img align="center" alt="Databricks" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg">
   <img align="center" alt="Apache Spark" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg">
   <img align="center" alt="Google Cloud" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
