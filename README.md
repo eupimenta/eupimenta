@@ -39,7 +39,7 @@ I bridge the gap between theoretical statistical modeling, distributed data engi
       <br><b>🤖 AI & Prompt Engineering</b><br><br>
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
       <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
-      <br><br>
+      <!-- <br><br> -->
       <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
     </td>
     <td width="50%" valign="top">
