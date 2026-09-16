@@ -65,7 +65,7 @@ I bridge the gap between theoretical statistical modeling, distributed data engi
   </tr>
 </table>
 
-<br>
+<!-- <br> -->
 
 ### 🤝 Let's Connect
 
@@ -74,7 +74,7 @@ I bridge the gap between theoretical statistical modeling, distributed data engi
   <a href="https://www.linkedin.com/in/epimenta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<br>
+<!-- <br> -->
 
 <div align="center">
   <img alt="Snake animation" src="https://github.com/eupimenta/eupimenta/blob/output/github-contribution-grid-snake.svg">
