@@ -29,7 +29,7 @@ I bridge the gap between theoretical statistical modeling, distributed data engi
       <img align="center" alt="RStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg">
       <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
       <img align="center" alt="SPSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg">
-      <img align="center" alt="SAS" height="40" width="40" src="https://cdn.simpleicons.org/sas/0092DF">
+      <img align="center" alt="SAS" height="40" src="https://img.shields.io/badge/SAS-0092DF?style=for-the-badge&logo=sas&logoColor=white">
       <img align="center" alt="Google Colab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
     </td>
   </tr>
